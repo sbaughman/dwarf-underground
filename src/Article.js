@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import Comments from './Comments'
 import './Article.css'
 
 class Article extends Component {
